@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CreationWeek",
+      "request": "launch",
+      "mainClass": "CreationWeek",
+      "projectName": "ADSA_8da7710c"
+    },
+    {
+      "type": "java",
+      "name": "Creation",
+      "request": "launch",
+      "mainClass": "Creation",
+      "projectName": "ADSA_8da7710c"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "ADSA_8da7710c"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
